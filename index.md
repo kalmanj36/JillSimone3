@@ -1,7 +1,7 @@
-background-color: black
+
 <style>
     body {
-      background-color: lightgray; /* Background for the entire page */
+      background-color: #081b2c; 
     }
 </style>
 ---
