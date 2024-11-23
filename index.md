@@ -5,7 +5,7 @@
 ### hot and chill series
 
 [hot and chill besties 2021](/sample_page)<br>
-<img src="images/hot and chill besties.jpg" style="width: 300px; height: 240px;"/>
+<img src="images/hot and chill besties.jpg" style="width: 250px; height: 300px;"/>
 
 ---
 [chillin by the fire hbu 2023](/pdf/sample_presentation.pdf)<br>
@@ -13,7 +13,7 @@
 
 ---
 [on the stoop 2023](http://example.com/)<br>
-<img src="images/on the stoop.jpg" style="width: 300px; height: 250px;"/>
+<img src="images/on the stoop.jpg" style="width: 250px; height: 300px;"/>
 
 ---
 
