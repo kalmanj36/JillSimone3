@@ -5,7 +5,7 @@
 ### hot and chill series
 
 [hot and chill besties](/sample_page)
-<img src="images/hot and chill besties.jpg" style: width= "200", height="200"/>
+<img src="images/hot and chill besties.jpg" style="width: 300px; height: 200px;"/>
 
 ---
 [chillin by the fire hbu](/pdf/sample_presentation.pdf)
