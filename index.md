@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### hot and chill series
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[hot and chill besties](/sample_page)
+<img src="images/hot and chill besties.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[chillin by the fire hbu](/pdf/sample_presentation.pdf)
+<img src="images/chillin by the fire600.jpg"/>
+
+---
+[on the stoop](http://example.com/)
+<img src="images/on the stoop.jpg"/>
 
 ---
 
