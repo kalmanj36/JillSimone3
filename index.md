@@ -4,16 +4,16 @@
 
 ### hot and chill series
 
-[hot and chill besties](/sample_page)
-<img src="images/hot and chill besties.jpg" style="width: 300px; height: 200px;"/>
+[hot and chill besties 2021](/sample_page)
+<img src="images/hot and chill besties.jpg" style="width: 200px; height: 300px;"/>
 
 ---
-[chillin by the fire hbu](/pdf/sample_presentation.pdf)
-<img src="images/chillin by the fire600.jpg"/>
+[chillin by the fire hbu ](/pdf/sample_presentation.pdf)
+<img src="images/chillin by the fire600.jpg" style="width: 300px; height: 200px;"/>
 
 ---
 [on the stoop](http://example.com/)
-<img src="images/on the stoop.jpg"/>
+<img src="images/on the stoop.jpg" style="width: 200px; height: 300px;"/>
 
 ---
 
