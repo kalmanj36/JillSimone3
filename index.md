@@ -1,5 +1,9 @@
-
-
+background-color: black
+<style>
+    body {
+      background-color: lightgray; /* Background for the entire page */
+    }
+</style>
 ---
 ---
 ### hot and chill series
