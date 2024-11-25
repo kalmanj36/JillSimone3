@@ -4,7 +4,7 @@
       background-color: #0d3137; 
     }
     p {
-      color: #f2fcea;
+      color: #daedcc;
     }
 </style>
 
@@ -37,7 +37,9 @@ style="width: 250px; height: 300px;"/>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
 - [La Divina 2024](/sample_page)<br>
 <img src="images/la divina - Copy.jpg" style="width: 420px; height: 270px;"/>
+
 ---
+
 ### Astro Hex Signs
 - [Eclipse 2024](/sample_page)<br>
 <img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>
