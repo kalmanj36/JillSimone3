@@ -5,6 +5,8 @@
     }
     p {
       color: #daedcc;
+      font: verdana;
+      size: 10px;
     }
 </style>
 
