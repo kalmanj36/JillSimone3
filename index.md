@@ -7,6 +7,10 @@
 ---
 ---
 ### hot and chill series
+- [chillin in delray 2023](http://example.com/)<br>
+<img src="images/delray600.jpg" 
+style="width: 300px; height: 250px;"/>
+
 - [on the stoop 2023](http://example.com/)<br>
 <img src="images/on the stoop.jpg" 
 style="width: 250px; height: 300px;"/>
@@ -31,8 +35,12 @@ style="width: 250px; height: 300px;"/>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
 - [La Divina 2024](/sample_page)<br>
 <img src="images/la divina - Copy.jpg" style="width: 420px; height: 270px;"/>
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+
+### Astro Hex Signs
+- [Eclipse 2024](/sample_page)<br>
+<img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>
+- [Zodiac 2024](/sample_page)<br>
+<img src="images/hex astro600.png" style="width: 300px; height: 300px;"/>
 - [Project 5 Title](http://example.com/)
 
 ---
