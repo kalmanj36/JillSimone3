@@ -3,6 +3,12 @@
     body {
       background-color: #0d3137; 
     }
+    h1 {
+      color: black;
+    }
+    p {
+      color: white;
+    }
 </style>
 ---
 ---
