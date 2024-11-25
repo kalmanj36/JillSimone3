@@ -5,7 +5,7 @@
     }
     p {
       color: #daedcc;
-      font: verdana;
+      font-family: verdana;
       size: 10px;
     }
 </style>
