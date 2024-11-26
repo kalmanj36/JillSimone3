@@ -10,7 +10,7 @@ description:
 
 
 head:
-  - link: /assets/css/style.scss 
+  - link: /assets/css/style.css 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
