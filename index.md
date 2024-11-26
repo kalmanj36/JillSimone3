@@ -9,7 +9,7 @@
       size: 10px;
     }
 </style>
-<p>
+
 ### hot and chill series
 - [chillin in delray 2023](http://example.com/)<br>
 <img src="images/delray600.jpg" 
@@ -53,7 +53,7 @@ style="width: 250px; height: 300px;"/>
 
 
 
-</p>
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
