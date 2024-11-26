@@ -1,7 +1,7 @@
 
 <style>
     body {
-      background-color: #95a08d; 
+      background-color: #6d7567; 
     }
     p {
       color: #daedcc;
