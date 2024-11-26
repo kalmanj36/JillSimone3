@@ -10,7 +10,8 @@ description:
 
 
 head:
-  - link: /assets/css/style.css  
+  - link: /assets/css/style.scss 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
