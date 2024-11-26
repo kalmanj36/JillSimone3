@@ -1,14 +1,4 @@
 
-<style>
-    body {
-      background-color: #6d7567; 
-    }
-    p {
-      color: #daedcc;
-      font-family: verdana;
-      size: 10px;
-    }
-</style>
 
 ### hot and chill series
 - [chillin in delray 2023](http://example.com/)<br>
