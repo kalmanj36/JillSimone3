@@ -1,5 +1,7 @@
 
 ---
+editor_options:   
+  layout:default
 ---
 ## Astro Hex Signs
 [Eclipse 2024](/sample_page)<br>

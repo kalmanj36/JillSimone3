@@ -1,5 +1,6 @@
-
 ---
+editor_options:
+  layout:default
 ---
 ## hot and chill series
 
