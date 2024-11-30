@@ -1,4 +1,4 @@
-#Painting Series<br>
+# Painting Series<br>
 [hot and chill](/hotandchill)
 [Tessellations](http://example.com/)
 [Hex signs](/sample_page)<br>
