@@ -1,6 +1,6 @@
 
-<head>
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="https://kalmanj36.github.io/JillSimone3/assets/styles.css">
+
 
 ## hot and chill series
 
@@ -16,7 +16,6 @@ style="width: 250px; height: 300px;"/>
 [chillin by the fire hbu 2023](/images/chillin by the fire600.jpg)<br>
 <img src="images/chillin by the fire600.jpg" 
 style="width: 300px; height: 250px;"/>
-
 
 
 [hot and chill besties 2021](/images/hot and chill besties.jpg)<br>
