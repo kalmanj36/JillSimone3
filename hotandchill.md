@@ -1,8 +1,6 @@
 layout:default
 ---
-
 ---
-
 ## hot and chill series
 
 [chillin in delray 2024](/images/delray600.jpg)<br>
