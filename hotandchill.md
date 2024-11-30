@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="https://kalmanj36.github.io/JillSimone3/assets/styles.css">
+<link rel="stylesheet" href="css/styles.css">
 
 
 ## hot and chill series
@@ -21,4 +21,3 @@ style="width: 300px; height: 250px;"/>
 [hot and chill besties 2021](/images/hot and chill besties.jpg)<br>
 <img src="images/hot and chill besties.jpg" 
 style="width: 250px; height: 300px;"/>
-</head>
