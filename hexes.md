@@ -1,4 +1,3 @@
-layout:default
 ---
 ---
 ## Astro Hex Signs
