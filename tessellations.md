@@ -1,7 +1,5 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
+<link rel="stylesheet" href="css/styles.css">
 ---
 
 ## Tessellations

@@ -1,8 +1,7 @@
 
----
-editor_options:   
-  layout:default
----
+<head>
+<link rel="stylesheet" href="css/styles.css">
+</head>
 ## Astro Hex Signs
 [Eclipse 2024](/sample_page)<br>
 <img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>

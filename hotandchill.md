@@ -1,7 +1,7 @@
----
-editor_options:
-  layout:default
----
+
+<head>
+<link rel="stylesheet" href="css/styles.css">
+
 ## hot and chill series
 
 [chillin in delray 2024](/images/delray600.jpg)<br>
@@ -22,3 +22,4 @@ style="width: 300px; height: 250px;"/>
 [hot and chill besties 2021](/images/hot and chill besties.jpg)<br>
 <img src="images/hot and chill besties.jpg" 
 style="width: 250px; height: 300px;"/>
+</head>
