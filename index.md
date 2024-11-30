@@ -3,23 +3,22 @@
 -[hot and chill](/hotandchill.html) -[Tessellations](/tessellations.html) -[Hex signs](/hexes.html)<br>
 
 ### hot and chill series
-- [chillin in delray 2024](http://example.com/)<br>
+- [chillin in delray 2024](/images/delray600.jpg)<br>
 <img src="images/delray600.jpg" 
 style="width: 300px; height: 250px;"/>
 
-- [on the stoop 2023](http://example.com/)<br>
+- [on the stoop 2023](/images/on the stoop.jpg)<br>
 <img src="images/on the stoop.jpg" 
 style="width: 250px; height: 300px;"/>
 
 
-
-- [chillin by the fire hbu 2023](/pdf/sample_presentation.pdf)<br>
+- [chillin by the fire hbu 2023](/images/chillin by the fire600.jpg)<br>
 <img src="images/chillin by the fire600.jpg" 
 style="width: 300px; height: 250px;"/>
 
 
 
-- [hot and chill besties 2021](/sample_page)<br>
+- [hot and chill besties 2021](/images/hot and chill besties.jpg)<br>
 <img src="images/hot and chill besties.jpg" 
 style="width: 250px; height: 300px;"/>
 
@@ -27,17 +26,17 @@ style="width: 250px; height: 300px;"/>
 
 ### Tessellations
 
-- [Las Joyas 2024](/sample_page)<br>
+- [Las Joyas 2024](/images/las joyas.jpg)<br>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
-- [La Divina 2024](/sample_page)<br>
+- [La Divina 2024](/images/la divina.jpg)<br>
 <img src="images/la divina - Copy.jpg" style="width: 420px; height: 270px;"/>
 
 ---
 
 ### Astro Hex Signs
-- [Eclipse 2024](/sample_page)<br>
+- [Eclipse 2024](/sun hex600)<br>
 <img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>
-- [Zodiac 2024](/sample_page)<br>
+- [Zodiac 2024](/hex astro600)<br>
 <img src="images/hex astro600.png" style="width: 300px; height: 300px;"/>
 - [Project 5 Title](http://example.com/)
 
