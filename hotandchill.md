@@ -12,7 +12,6 @@ style="width: 300px; height: 250px;"/>
 style="width: 250px; height: 300px;"/>
 
 
-
 [chillin by the fire hbu 2023](/images/chillin by the fire600.jpg)<br>
 <img src="images/chillin by the fire600.jpg" 
 style="width: 300px; height: 250px;"/>
