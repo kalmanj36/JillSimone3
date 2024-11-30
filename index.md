@@ -1,8 +1,8 @@
 # Painting Series<br>
 
-[hot and chill](/hotandchill.html)
-[Tessellations](http://example.com/)
-[Hex signs](/sample_page)<br>
+- [hot and chill](/hotandchill.html)
+- [Tessellations](/tessellations.html)
+- [Hex signs](/hexes.html)<br>
 
 ### hot and chill series
 - [chillin in delray 2024](http://example.com/)<br>
