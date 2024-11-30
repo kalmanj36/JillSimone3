@@ -1,4 +1,6 @@
+layout:default
 ---
+
 ---
 
 ## hot and chill series
