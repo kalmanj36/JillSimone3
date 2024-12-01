@@ -5,9 +5,9 @@
 body {
   background-color: #4e5549;
   padding:50px;
-  font-family: ;: 14px/1.5 "Noto Sans", "Helvetica Neue", "Euphemia" Helvetica, Arial, sans-serif;
+  font-family: ;: 14px/1.5 "Noto Sans", "Helvetica Neue", "Euphemia", Helvetica, Arial, sans-serif;
   color:#c4d0ad;
-  font:"Euphemia"
+  font:"Euphemia";
   font-weight:400;
 }
 
