@@ -28,15 +28,15 @@ style="width: 250px; height: 300px;"/>
 
 - [Las Joyas 2024](/images/las joyas.jpg)<br>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
-- [La Divina 2024](/images/la divina.jpg)<br>
+- [La Divina 2024](/images/la divina - Copy.jpg)<br>
 <img src="images/la divina - Copy.jpg" style="width: 420px; height: 270px;"/>
 
 ---
 
 ### Astro Hex Signs
-- [Eclipse 2024](/sun hex600)<br>
+- [Eclipse 2024](/images/sun hex600)<br>
 <img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>
-- [Zodiac 2024](/hex astro600)<br>
+- [Zodiac 2024](/images/hex astro600)<br>
 <img src="images/hex astro600.png" style="width: 300px; height: 300px;"/>
 - [Project 5 Title](http://example.com/)
 
