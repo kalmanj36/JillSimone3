@@ -5,14 +5,16 @@
 body {
   background-color: #4e5549;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: ;: 14px/1.5 "Noto Sans", "Helvetica Neue", "Euphemia" Helvetica, Arial, sans-serif;
   color:#c4d0ad;
+  font:"Euphemia"
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#bfcdcb;
   margin:0 0 20px;
+  font-family: "Euphemia" ;
 }
 
 p, ul, ol, table, pre, dl {
