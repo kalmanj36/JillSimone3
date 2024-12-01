@@ -1,4 +1,4 @@
-# Acrylics on Canvas <br>
+# All Work <br>
 
 ## [hot and chill](/hotandchill.md) -[Tessellations](/tessellations.md) -[Hex signs](/hexes.md)<br>
 
