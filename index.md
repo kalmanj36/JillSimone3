@@ -1,8 +1,8 @@
-# Painting Series<br>
+# Acrylics on Canvas <br>
 
 [hot and chill](/hotandchill.md) -[Tessellations](/tessellations.md) -[Hex signs](/hexes.md)<br>
 
-## hot and chill series
+### hot and chill series
 - [chillin in delray 2024](/images/delray600.jpg)<br>
 <img src="images/delray600.jpg" 
 style="width: 300px; height: 250px;"/>
@@ -24,7 +24,7 @@ style="width: 250px; height: 300px;"/>
 
 ---
 
-## Tessellations
+### Tessellations
 
 - [Las Joyas 2024](/images/las joyas.jpg)<br>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
@@ -33,7 +33,7 @@ style="width: 250px; height: 300px;"/>
 
 ---
 
-## Astro Hex Signs
+### Astro Hex Signs
 - [Eclipse 2024](/sun hex600)<br>
 <img src="images/sun hex600.png" style="width: 300px; height: 300px;"/>
 - [Zodiac 2024](/hex astro600)<br>
