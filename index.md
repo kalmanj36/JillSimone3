@@ -3,6 +3,7 @@
 ## [hot and chill](/hotandchill.md) -[Tessellations](/tessellations.md) -[Hex signs](/hexes.md)<br>
 
 ### hot and chill series
+
 - [chillin in delray 2024](/images/delray600.jpg)<br>
 <img src="images/delray600.jpg" 
 style="width: 300px; height: 250px;"/>

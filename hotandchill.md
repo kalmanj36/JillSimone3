@@ -1,6 +1,8 @@
 
 
 ## hot and chill series
+Acrylics on canvas. <br>
+Prints and originals available for purchase. 
 [chillin in delray 2024](/images/delray600.jpg)<br>
 <img src="images/delray600.jpg" 
 style="width: 300px; height: 250px;"/>
