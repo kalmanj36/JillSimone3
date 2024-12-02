@@ -1,8 +1,7 @@
 
 ## Tessellations
 
-### Acrylics on canvas. <br>
-### Prints and originals available for purchase. <br>
+### Acrylics on canvas. Prints and originals available for purchase. <br>
 [Las Joyas 2024](/images/las joyas.jpg)<br>
 <img src="images/las joyas.jpg" style="width: 350px; height: 262px;"/>
 <br> 
