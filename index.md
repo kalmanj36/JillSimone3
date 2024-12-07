@@ -1,6 +1,6 @@
 # All Work <br>
 
-## [hot and chill](/hotandchill.md) -[Tessellations](/tessellations.md) -[Hex signs](/hexes.md) - and this one- and this one- and this one- and this one<br>
+## [hot and chill](/hotandchill.md) -[Tessellations](/tessellations.md) -[Hex signs](/hexes.md) -<br>
 
 ### hot and chill series
 
