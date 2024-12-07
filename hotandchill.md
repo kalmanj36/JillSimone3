@@ -2,7 +2,6 @@
 
 ## hot and chill series
 ### Acrylics on canvas. Prints and originals available for purchase. <br>
-To inquire about a purchase of a hot and chill bestie please <a href= mailto:jillsimone3@gmail.com?Subject=hot%20and%20chill%20>click here</a> <br>
 
 [chillin in delray 2024](/images/delray600.jpg)<br>
 <img src="images/delray600.jpg" 
